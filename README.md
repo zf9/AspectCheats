@@ -3,4 +3,4 @@
 
 just had themida on shit C# loader
 
-CompiledUnpacked/AuthBypass_unpacked_AspectLauncher.exe > Just press logi
+CompiledUnpacked/AuthBypass_unpacked_AspectLauncher.exe > Just press login
